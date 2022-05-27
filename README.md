@@ -1,6 +1,6 @@
 ### Hi there 👋, Christopher Mizell
 #### Backend Engineer
-![Backend Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Backend Engineer](https://user-images.githubusercontent.com/90157662/170603203-29fd7fa1-ec67-4b38-a8d0-11f926ee0a67.png)
 
 Backend Engineer, based in San Francisco Bay area. Passion for learning and fixing broken projects! Debugging and building upon my existing skills is a skill I take great pride in. 
 
