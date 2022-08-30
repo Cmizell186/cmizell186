@@ -19,6 +19,6 @@ Skills: JavaScript | React | Node.js | Redux | Python | Flask | PostgreSQL | Seq
 
 <div style="display:flex, flex-direction">
 <img src="https:/github-readme-stats-ebon-omega.vercel.app/api/top-langs/?username=Cmizell186"/>
-<img src="https://github-readme-stats-ebon-omega.vercel.app/api?username=Cmizell186&show_icons=true"/>
+<!-- <img src="https://github-readme-stats-ebon-omega.vercel.app/api?username=Cmizell186&show_icons=true"/> -->
 </div>
 
