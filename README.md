@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/90157662/170603203-29fd7fa1-ec67-4b38-a8d0-11f926ee0a67.png"/>
 </p>
 
-Backend Engineer, based in San Francisco Bay area. Passion for learning and fixing broken projects! Debugging and building upon my existing skills is a skill I take great pride in. 
+Software Engineer, based in San Francisco Bay area. Passion for learning and fixing broken projects! Debugging and building upon my existing skills is a skill I take great pride in. 
 
 Skills: JavaScript | React | Node.js | Redux | Python | Flask | PostgreSQL | Sequelize | AWS3 | Docker | SQLAlchemy | Express | CSS | HTML
 
