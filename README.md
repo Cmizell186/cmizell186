@@ -1,5 +1,5 @@
 ### Hi there 👋, Christopher Mizell
-#### Backend Engineer
+#### Software Engineer
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90157662/170603203-29fd7fa1-ec67-4b38-a8d0-11f926ee0a67.png"/>
 </p>
