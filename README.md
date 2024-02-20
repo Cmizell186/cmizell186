@@ -1,7 +1,7 @@
 ### Hi there 👋, Christopher Mizell
 #### Software Engineer
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90157662/193904564-dfed0aeb-e1a8-4640-ad4d-b63e9097cf20.png](https://github.com/Cmizell186/cmizell186/assets/90157662/4d5a657d-285f-4e8b-a362-945a775589fc"/>
+  <img src='https://github.com/Cmizell186/cmizell186/assets/90157662/4d5a657d-285f-4e8b-a362-945a775589fc'/>
 </p>
 ![linkedinbanner](https://github.com/Cmizell186/cmizell186/assets/90157662/4d5a657d-285f-4e8b-a362-945a775589fc)
 
