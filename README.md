@@ -10,8 +10,8 @@ Software Engineer, based in San Francisco Bay area. Passion for learning and fix
 
 Skills: JavaScript | React | Node.js | Redux | Python | Flask | PostgreSQL | Sequelize | AWS3 | Docker | SQLAlchemy | Express | CSS | HTML
 
-- 🔭 I’m currently working on Open Source projects, and my own discord bot! 
-- 🌱 I’m currently Studying npm packages!
+- 🔭 I’m currently creating personal projects!
+- 🌱 I’m currently Studying Python and Automation
 - 📫 How to reach me: chrislmiz311@gmail.com 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love chess! 
