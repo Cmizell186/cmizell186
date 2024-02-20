@@ -3,7 +3,7 @@
 <p align="center">
   <img src='https://github.com/Cmizell186/cmizell186/assets/90157662/4d5a657d-285f-4e8b-a362-945a775589fc'/>
 </p>
-![linkedinbanner](https://github.com/Cmizell186/cmizell186/assets/90157662/4d5a657d-285f-4e8b-a362-945a775589fc)
+<!-- ![linkedinbanner](https://github.com/Cmizell186/cmizell186/assets/90157662/4d5a657d-285f-4e8b-a362-945a775589fc) -->
 
 
 Software Engineer, based in San Francisco Bay area. Passion for learning and fixing broken projects! Debugging and building upon my existing skills is a skill I take great pride in. 
